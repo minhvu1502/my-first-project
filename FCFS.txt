@@ -1,0 +1,2 @@
+Thoi gian cho trung binh cua cac tien trinh = 14.5
+Thoi gian luu trung binh cua cac tien trinh = 24.5
